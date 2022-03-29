@@ -1,4 +1,4 @@
-
+## 1章
 |用語|英語|説明|
 |:--:|:--:|:--|
 |CSR|Corprate Social Responsibility|企業の社会的責任|
@@ -12,4 +12,6 @@
 |CIO|Chief Infomation Officer|企業の4大経営資源の一つである「情報」に関する仕事を担当する役職。CIOの主たる業務は情報システムの総括。(最高情報責任者)|
 |CFO|Chief Financial Officer|最高財務責任者|
 |COO|Chief Oparating Officer|最高執行責任者|
-|ROE|　|自己資本利益率|
+|ROE|　|自己資本利益率。総資本に対する自己資本の割合「会社にあるお金のうちの、自分のお金」|
+
+## 2章
