@@ -46,4 +46,9 @@
 |SFA|Sales Force Automation|(営業支援システム)営業ノウハウを一元管理。見込み客を顧客に変えることを目的として、営業情報を一元化している。|
 |SCM|Supply Chain Management|(供給連鎖管理)社外も含めて製品情報を一元管理。社内。社外の調達・生産・販売窓のプロセス全体の最適化を行う手法。|
 |ERP|Enterprise Resource Planning|(企業資源計画)|
-|TOC|Theory Of Constrains||
+|TOC|Theory Of Constrains|全体のパフォーマンスが特定のボトルネックによって制限されているという理論。ボトルネックを解消することで、全体のパフォーマンスを上げることができる。|
+
+## 4章
+|用語|英語|説明|
+|:--:|:--:|:--|
+|RFID|Radio Frequency Identification|電波を用いることで直接触れることなく情報をやり取りする技術|
