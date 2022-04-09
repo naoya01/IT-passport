@@ -52,3 +52,11 @@
 |用語|英語|説明|
 |:--:|:--:|:--|
 |RFID|Radio Frequency Identification|電波を用いることで直接触れることなく情報をやり取りする技術|
+|NFC|Near Field Communication|近距離無線通信の規格。通信距離は数cmです。ICチップのメモリに何度も書き込み可能。|
+|GPS|Global positioning System|(全地球測位システム)3つ以上の人工衛星の電波を使って、現在地を測定するためのシステム。|
+|AI|Artifical Intelligence|(人工知能)人間の知的な振る舞いをコンピューター上に再現する技術|
+|CAD|Computer Aided Design|(コンピュータ支援設計)製品の設計をコンピュータで行うシステム|
+|CAM|Computer Aided Manufactureing|(コンピュータ支援製造)CADで作成された設計図面のデータを元にして、工作機械を操作するためのプログラムを作成するシステム。|
+|CIM|Computer Integrated Manufactureing|CADで作成した設計図や、CAMで作成したデータを一元管理するシステム。|
+|FMS|Flexible Manufactureing System|1つの生産ラインでさまざまな種類の製品の製造に柔軟に対応するためのシステム。|
+|EC|Electronic Commerce|(電子商取引)インターネット|
