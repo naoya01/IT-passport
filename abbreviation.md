@@ -59,4 +59,23 @@
 |CAM|Computer Aided Manufactureing|(コンピュータ支援製造)CADで作成された設計図面のデータを元にして、工作機械を操作するためのプログラムを作成するシステム。|
 |CIM|Computer Integrated Manufactureing|CADで作成した設計図や、CAMで作成したデータを一元管理するシステム。|
 |FMS|Flexible Manufactureing System|1つの生産ラインでさまざまな種類の製品の製造に柔軟に対応するためのシステム。|
-|EC|Electronic Commerce|(電子商取引)インターネット|
+|EC|Electronic Commerce|(電子商取引)インターネット上で商品を売買すること|
+|CGM|Customer Generated Media|一般の商品者が、インターネットを通じて自らの情報を発信するメディアの総称(ぶろづ、口コミ、SNSなど)|
+|SEO|Search Engine Optimization|検索エンジン(Google,yahooなど)の検索結果の上位に自信のウェブサイトが表示されるようにさまざまな対策を行うこと|
+|IoT|Internet of Things|自動車や家電などの「モノ」が直接インターネットにy￥つながってお互いの情報をやり取りすること。|
+
+## 5章
+|用語|英語|説明|
+|:--:|:--:|:--|
+|EA|Enterprise Arcitecture|企業や政府など、大きな組織の情報システムを最適化するための手法|
+|SoE|Systems of Engagement|ユーザのニーズに合ったサービスやシステムを構築することで、ユーザとのつながりを強化する|
+|SoR|Systems of Record|従来のシステムのように単に手作業を自動化するだけのシステムのこと|
+|DFD|Date Flow Diagram|4種類の記号を使ってデータの流れを表す図(時間の流れや処理の順序は表さない)|
+|BPMN|Business Process Modeling Notation|現在標準化が進められているビジネスプロセスの表記法。|
+|BPR|Business Process Reengieering|(業務プロセスリエンジニアリング)企業全体の業務プロセスを「根本的」に再設計する手法。|
+|BPM|Business Process  Management|(業務プロセスぷろせす管理)業務プロセスを見直して「継続的」に改善する手法。|
+|RPA|Robotic Process Automation|ソフトウェアロボット事務作業を自動化すること。|
+|IaaS|Infrastructure as a Service|ハードウェアなどの基盤(インフラストラクチャ)をインターネット上で提供するサービス。ネットワーク構成やサーバの追加もインターネット経由で簡単に変更ができる。|
+|PaaS|Platform as a Service|プラットフォーム(アプリケーションソフトウェアを動かすために必要な土台)をインターネット上で提供するサービス。|
+|SaaS|Software as a Service|ソフトウェアをインターネット上で提供するサービス。PaaSにアプリケーションソフトウェアを加えたサービスということもできる。|
+|DaaS|Desktop as a Service|デスクトップ環境をインターネット上で提供するサーニス。|
