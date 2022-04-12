@@ -99,7 +99,7 @@
 |PIMBOK|Project Management Body of Knowledge|プロジェクトマネジメントの体系化された知識です。(プロジェクトマネジャーのための教科書)アメリカのプロジェクトマネジメント協会がOIMBOKを制作した。|
 |WBS|Work Breakdown Structure|プロジェクトという1つの大きな作業を細かい作業単位に分割すること。|
 
-## 7章
+## 8章
 |用語|英語|説明|
 |:--:|:--:|:--|
 |ITIL|Information Technology Infrastructure Library|ITサービスマネジメントのベストプラクティス(最良の事例)が書かれた本。|
