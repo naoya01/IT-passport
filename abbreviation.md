@@ -88,4 +88,24 @@
 ## 6章
 |用語|英語|説明|
 |:--:|:--:|:--|
-||||
+|DevOps|Development Operation|Development(開発担当者)とOperation(運用担当者)が連携してシステム開発する手法。|
+|XP|eXtream Programming|アジャイル開発の手段の一つで19のプラクティス(実践)が定義された開発手法。|
+|EUC|End User Computing|システムを利用する部門(エンドユーザ)が主体的にシステムの開発や運用に関わること。|
+|RAD|Rapid Application Development|少数人のチームでプロトタイピングを繰り返し、短い期間で開発する開発モデル。|
+
+## 7章
+|用語|英語|説明|
+|:--:|:--:|:--|
+|PIMBOK|Project Management Body of Knowledge|プロジェクトマネジメントの体系化された知識です。(プロジェクトマネジャーのための教科書)アメリカのプロジェクトマネジメント協会がOIMBOKを制作した。|
+|WBS|Work Breakdown Structure|プロジェクトという1つの大きな作業を細かい作業単位に分割すること。|
+
+## 7章
+|用語|英語|説明|
+|:--:|:--:|:--|
+|ITIL|Information Technology Infrastructure Library|ITサービスマネジメントのベストプラクティス(最良の事例)が書かれた本。|
+|SLM|Service Level Management|(サービスレベル管理)サービスの提供者と利用者が合意した「サービスレベル(サービスの品質や範囲)」を維持・改善するための活動。PDCAの手法を使ってサービスの維持・改善を行う。|
+|SLA|Service Level Agreement|(サービスレベル合意書)サービス提供者とサービス利用者との間で取り決めた「サービスレベル(サービスの品質や範囲)」を明文化した書類。|
+|FAQ|Frequently Asked Question|よくある質問とその答えをまとめたもの。FAQを置くことで、サービスデスク(お問合せ窓口)へのお問合せを減らし、負担を軽減できる。|
+|BCM|Business Continuity Management|(事業継続管理)大規模な災害などで、企業活動を支える重要な情報システムに障害が発生した場合でも、企業活動を継続させるための経営手法。この手法のポイントは「事前に計画し、準備しておくこと」|
+|BCP|Business Continuity Plan|(事業継続計画)災害や事故などの不測の事態を想定して、事業をいかに継続するかをまとめた計画。|
+|UPS|Uninterruptible Power Supply|(無停電電源装置)停電時にコンピュータに一時的に電力を供給するための装置。USPを始動した場合、早急にコンピュータをシャットダウンするなどして、作業中のデータを守ることが重要。始動後は自家発電装置の準備をする。|
