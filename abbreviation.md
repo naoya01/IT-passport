@@ -147,3 +147,21 @@
 |用語|英語|説明|
 |:--:|:--:|:--|
 |OS|Operation System|アプリケーションソフトウェアとハードウェアの間で処理を仲介するソフトウェア。|
+
+## 13章
+|用語|英語|説明|
+|:--:|:--:|:--|
+|ER図|Entity-Relationship Diagram|データの関係性を「エンティティ(実体)」と「リレーション(関係)」という2つの概念を使って表した図。|
+|DBMS|DataBase Management System|(データベースマネジメント管理システム)アプリケーションソフトウェアの要求に応じてデータベースを操作するシステム。|
+|SQL|Structure Query Language|関係データベースを操作するための言語。|
+
+## 14章
+|用語|英語|説明|
+|:--:|:--:|:--|
+|LAN|Local Area Network|狭い範囲のコンピュータで構成される小規模なネットワーク。|
+|LAN|Wide Area Network|大規模(広範囲)なネットワークのこと。電気通信事業者が設置した通信回線を使ったネットワークのことをWANという。|
+|SDN|Software Defind Network|ネットワークを構成する通信機器を、ソフトウェアで制御する技術。|
+|IEEE|　|米国電気電子学会。|
+|ESSID|Extended Service Set IDentifier|無線LANにおけるネットワークの名前。|
+|PoE|Power over Ethernet|イーサネットのケーブルを用いて電力を供給する技術。|
+|PLC|Power Line Communication|屋内の電力線を通信回線としても利用する技術。|
