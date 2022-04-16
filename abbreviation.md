@@ -165,3 +165,39 @@
 |ESSID|Extended Service Set IDentifier|無線LANにおけるネットワークの名前。|
 |PoE|Power over Ethernet|イーサネットのケーブルを用いて電力を供給する技術。|
 |PLC|Power Line Communication|屋内の電力線を通信回線としても利用する技術。|
+|SMTP|Simple Mail Transfer Protocol|電子メールをサーバに送信するためのプロトコル。|
+|POP|Post Office Protocol|電子メールをサーバから受信するためのプロトコル。|
+|IMAP|Internet Message Protocol|電子メールをダウンロードせずに、メールサーバ上で閲覧するためのプロトコル。|
+|FTP|File Transfer Protocol|ファイルを転送するためのプロトコル。|
+|NTP|Network Time Protocol|コンピュータの時刻を合わせるためのプロトコル。|
+|IPアドレス|Internet Protocol Address|ネットワークに接続している「コンピュータ」を識別するための番号。|
+|MACアドレス|Medida Access Control address|ネットワーク機器ごとに割り当てられている固有の宛先。|
+|DNS|Domain Name System|ドメイン名をIPアドレスに変換するシステム。|
+|URL|Uniform Resource Locator|ドメイン名によって特定されたコンピュータのさらに内部のデータまでを直接指定するための記法。|
+|DHCP|Dynamic Host Configuration Protocol|IPアドレスを書くコンピュータに自動的に割り当てるプロトコル。|
+|To|　|一般的には、返信や処理を必要とする人を記入する。記入されている宛先は、メールを受け取った全員が確認できる。|
+|Co|　|一般的には、上司など、念の為に確認してほしい人を記入する。記入されている宛先は、メールを受け取った全員が確認できる。|
+|Bcc|　|一般的には、顧客など、お互いに面識のない複数の人を記入する。この欄に記入されている宛先は、メール送信者以外は確認できない。|
+|RSS|Rich Site Summary|Webサイトの見出しや要約などを記述するフォーマット(書式)。1つのページで複数のWebサイトの更新情報を一覧表示できるようになる。|
+|cookie||ユーザのブラウザに、 Webサーバからの情報を一時的に保存する仕組み。|
+|MVNO|Mobile Virtual Network Operator|他社の無線通信インフラを借りて、顧客にSIMカードを提供し、通信サービスを行う事業者。日本では格安スマホとも呼ばれる。|
+|FTTH|Fiber To The Home|光ファイバーを使った家庭向けの通信サービス。ADSLよりも伝達速度が高速。|
+|BLE|Bluetooth Low Energy|Bluetoothの仕様の1つで、省電力の通信規格です。従来のBluetoothよりも通信速度が遅い分、省電力であるため、IoT機器での利用に適している。|
+|LPWA|Low Power Wide Area|省電力で広範囲の通信ができる無線通信。数十kmの通信距離を持つ。LTE(4G)よりも省電力であり、BLEよりも通信距離が長いのが特徴。|
+
+## 15章
+|用語|英語|説明|
+|:--:|:--:|:--|
+|RAT|Remote Administration Tool|物理的に離れたパソコンを、ネットワーク経由で遠隔操作するマルウェア。|
+|SPAM||受信者の諸諾なしに無差別に送付させるメール。|
+|DoS攻撃|Denial of Service Attack|電子メールやWebサーバへの要求などを大量に送りつけて、ネットワーク上のサービスを提供不能にすること。|
+|ISMS|Infomation Security Management System|(情報セキュリティマネジメントシステム)組織の情報資産について、機密性、完全性、可用性の3つをバランスよく維持・改善するための仕組み。|
+|PKI|Public Key Infrastructure|(公開鍵基盤)公開鍵暗号方式やディジタル署名で仕様する公開鍵の持ち主を補償するためのインフラ(基盤)。|
+|IDS|Intrusion Detection System|(侵入検知システム)サーバに対して外部から不正アクセスがあった際に、システム管理者に通知を行うシステム。|
+|IPS|Intrusion Prevention System|(侵入防御システム)サーバに対して外部から不正アクセスがあった際に、システム管理者に通知を行うと同時に、そのアクセスを遮断するシステム。|
+|WAF|Web Application Firewall|Webアプリケーションの脆弱性を狙った攻撃からシステムを守るための仕組み。|
+|DMZ|DeMilitarized Zone|(非武装地帯)外部ネットワークと社内ネットワークの両方から隔離されたネットワーク領域。|
+|SSL/TLS|Secure Sockets Layer/Transport Layer Security|パソコンとサーバ間の通信を暗号化する通信プロトコル。|
+|HTTPS|HTTP over SSL/TLS|SSL/TLSを用いて「HTTP」による通信を暗号化するためのプロトコル。|
+|WPA2|Wi-Fi Protected Access 2|無線LAN上の通信を暗号化する規格。PCからアクセスポイントまでの通信を暗号化する。|
+|VPN|Virtual Private Network|インターネットなどの公共の通信回線を、あたかも専用回線のように利用できる技術。|
